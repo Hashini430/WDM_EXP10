@@ -26,5 +26,10 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/eff478d0-eea4-465a-aaf7-219387e40310" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/88e10fb8-1b18-4706-91f6-6e8ada8594dc" />
+
+
 
 ### Result:
+Sentimental Analysis on Movie reveiw is done Using Rapidminer
